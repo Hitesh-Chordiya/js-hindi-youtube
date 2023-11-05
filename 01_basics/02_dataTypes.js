@@ -1,5 +1,5 @@
 "use strict"; // treat all JS code as newer version
-
+// Data types are created on the way data is stored accessed 
 // alert( 3 + 3) // we are using nodejs, not browser
 
 console.log(3 

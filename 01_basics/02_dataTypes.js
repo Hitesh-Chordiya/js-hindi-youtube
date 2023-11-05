@@ -1,5 +1,6 @@
 "use strict"; // treat all JS code as newer version
 // Data types are created on the way data is stored accessed 
+//JS is dynamically typed language
 // alert( 3 + 3) // we are using nodejs, not browser
 
 console.log(3 
